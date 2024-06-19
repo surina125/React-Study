@@ -3,8 +3,6 @@
 한입 크기로 잘라먹는 리액트(React.js) 강의를 통해 React공부를 하고 있습니다!
 
 ## Section 01: JavaScript 기본
-- Chapter 01: 안녕 자바스크립트
-- Chapter 02: VsCode 설치하기
 - Chapter 03: 자바스크립트 실습 환경 설정하기
 - Chapter 04: 변수와 상수
 - Chapter 05: 자료형
